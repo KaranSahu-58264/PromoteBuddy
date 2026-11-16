@@ -15,22 +15,22 @@ export default function TrustSection({ onOpenAudit }: TrustSectionProps) {
     {
       title: 'Arham Palladium Ads',
       subtitle: 'Real Estate Lead Gen',
-      image: '/assets/portfolio/crops/ad_arham_palladium.png',
+      image: './assets/portfolio/crops/ad_arham_palladium.png',
     },
     {
       title: 'AVS Solar Campaign',
       subtitle: 'CleanTech Leads',
-      image: '/assets/portfolio/crops/ad_avs_solar.png',
+      image: './assets/portfolio/crops/ad_avs_solar.png',
     },
     {
       title: 'Alert SGS Pvt. Ltd.',
       subtitle: 'Corporate B2B Ads',
-      image: '/assets/portfolio/crops/ad_alert_sgs.png',
+      image: './assets/portfolio/crops/ad_alert_sgs.png',
     },
     {
       title: 'Voltage Lubes 3D',
       subtitle: 'Product Creatives',
-      image: '/assets/portfolio/crops/post_voltage_shine.png',
+      image: './assets/portfolio/crops/post_voltage_shine.png',
     },
   ];
 
@@ -115,7 +115,7 @@ export default function TrustSection({ onOpenAudit }: TrustSectionProps) {
               <div className="w-12 h-12 rounded-full p-0.5 bg-gradient-to-tr from-[#F77737] via-[#E1306C] to-[#833AB4] shrink-0">
                 <div className="w-full h-full rounded-full bg-white p-1 overflow-hidden flex items-center justify-center">
                   <img
-                    src="/assets/aistudio/logo_png_photoshop_fcd848ba.png"
+                    src="./assets/aistudio/logo_png_photoshop_fcd848ba.png"
                     alt="PromoteBuddy Instagram Avatar"
                     className="w-full h-full object-contain"
                     referrerPolicy="no-referrer"
@@ -298,7 +298,7 @@ export default function TrustSection({ onOpenAudit }: TrustSectionProps) {
             </div>
             <div className="mt-4 rounded-2xl overflow-hidden bg-slate-900">
               <img
-                src="/assets/portfolio/page_06.png"
+                src="./assets/portfolio/page_06.png"
                 alt="PromoteBuddy Official Collaborations Roster"
                 className="w-full h-auto object-contain max-h-[70vh]"
                 referrerPolicy="no-referrer"

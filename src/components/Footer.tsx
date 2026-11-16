@@ -172,7 +172,7 @@ export default function Footer({ onOpenAudit }: FooterProps) {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 border-t border-slate-200/80 text-xs text-slate-500">
           <div className="flex items-center gap-2.5">
             <img
-              src="/assets/aistudio/logo_png_photoshop_fcd848ba.png"
+              src="./assets/aistudio/logo_png_photoshop_fcd848ba.png"
               alt="PromoteBuddy Logo"
               className="w-6 h-6 object-contain rounded-md"
               referrerPolicy="no-referrer"

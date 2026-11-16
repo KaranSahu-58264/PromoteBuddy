@@ -99,7 +99,7 @@ export default function Hero({ onOpenAudit }: HeroProps) {
             <div className="relative rounded-3xl bg-[#0B0F19] p-3 shadow-2xl border border-black/10 overflow-hidden max-w-md mx-auto lg:ml-auto">
               <div className="relative h-[280px] sm:h-[330px] rounded-2xl overflow-hidden bg-slate-800">
                 <img
-                  src="/assets/portfolio/crops/ayush_portrait.png"
+                  src="./assets/portfolio/crops/ayush_portrait.png"
                   alt="Ayush - Founder, Digital Marketing Expert and Graphic Designer"
                   className="w-full h-full object-cover object-top"
                   referrerPolicy="no-referrer"

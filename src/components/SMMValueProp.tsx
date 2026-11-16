@@ -117,7 +117,7 @@ export default function SMMValueProp({ onOpenAudit }: SMMValuePropProps) {
                 <div className="lg:col-span-6">
                   <div className="rounded-xl overflow-hidden bg-[#0B0F19] p-2.5 shadow-md">
                     <img
-                      src="/assets/portfolio/crops/mockup_smm_phones.png"
+                      src="./assets/portfolio/crops/mockup_smm_phones.png"
                       alt="Voltage Lubes and Fibertek Instagram Grid Mockups"
                       className="w-full h-auto max-h-[280px] object-contain mx-auto rounded-lg"
                       referrerPolicy="no-referrer"

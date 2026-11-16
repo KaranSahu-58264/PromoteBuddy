@@ -44,7 +44,7 @@ export default function Navbar({ onOpenAudit }: NavbarProps) {
           >
             <div className="w-9 h-9 rounded-xl bg-white shadow-sm border border-black/[0.06] overflow-hidden flex items-center justify-center p-0.5 transition-transform duration-200 group-hover:scale-105">
               <img
-                src="/assets/aistudio/logo_png_photoshop_fcd848ba.png"
+                src="./assets/aistudio/logo_png_photoshop_fcd848ba.png"
                 alt="PromoteBuddy Logo"
                 className="w-full h-full object-contain"
                 referrerPolicy="no-referrer"
